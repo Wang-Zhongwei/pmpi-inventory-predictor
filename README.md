@@ -17,7 +17,14 @@ Online storefronts like Amazon, Temu, Instacart, and Uber Eats advertise and pro
   - Forecast next purchase date
   - Predict next purchase product type
 
+## KPIs
+todo
+
+## Stakeholders
+todo
+
 ## Project Setup
+todo
 
 ### Prerequisites
 - Docker and Docker Compose installed on your system
@@ -39,11 +46,22 @@ Online storefronts like Amazon, Temu, Instacart, and Uber Eats advertise and pro
    - Open the URL displayed in the terminal output (contains a token)
    - Typically: http://localhost:8888/?token=<your_token>
 
-### Project Structure
+### Project Structure/ Modeling Approach 
 todo
 
+## Data
+todo with images (need image folder to upload and reference them here)
 
 ## Results
+todo
+
+## Conclusions
+todo
+
+### Future Implications
+todo
+
+## Refrences
 todo
 
 ## Team Members
