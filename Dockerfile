@@ -1,7 +1,5 @@
 FROM python:3.11
 
-RUN pip install jupyter pandas numpy scikit-learn matplotlib seaborn
-
 WORKDIR /notebooks
 COPY requirements.txt .
 RUN pip install -r requirements.txt

@@ -37,9 +37,14 @@ todo
    cd pmpi-inventory-predictor
    ```
 
-2. Build and start the Docker container
+2. Build the image and start the Docker container
    ```bash
    docker-compose up --build
+   ```
+
+   Start the container using existing image
+   ```bash
+   docker-compose up
    ```
 
 3. Access Jupyter Notebook
